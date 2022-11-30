@@ -1,5 +1,10 @@
 # Random_Sentence_Generator
-A program creating random sentences
+This is a program for creating random sentences.
 
-Project idea from SoftUni 
-https://softuni.bg/
+How to use:
+  If you want to make a new sentence, type NEW in the terminal
+  If you want to stop the program, type STOP in the terminal.
+
+This is a project from the fundamentals module in SoftUni
+
+Official website of SoftUni  ->  https://softuni.bg/
